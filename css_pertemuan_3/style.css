@@ -1,0 +1,16 @@
+.padding {
+  color: whitesmoke;
+  width: 200px;
+  height: 200px;
+  background-color: rosybrown;
+  /*padding-top: 30px;
+  padding-left: 30px;
+  padding-right: 30px;
+  padding-bottom: 30px;*/
+  padding: 30px;
+  border: 10px inset whitesmoke;
+  border-radius: 50px 10px;
+  margin-left: 30px;
+  margin-top: 30px;
+  /*50% bulat sempurna*/
+}

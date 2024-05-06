@@ -1,0 +1,23 @@
+@import url("https://fonts.googleapis.com/css2?family=Dosis:wght@200..800&family=Patua+One&display=swap");
+body {
+  /*background-color: #99bc85;
+  background-image: url("image.png");
+  background-position: center;
+  background-attachment: scroll;*/
+  background: url("image.png") no-repeat top left / cover fixed;
+}
+
+.scroll {
+  width: 1000px;
+  height: 1200px;
+}
+
+.title {
+  font-family: "Patua One", serif;
+  font-weight: 400;
+  font-style: normal;
+  text-decoration: underline;
+  text-align: center;
+  color: darkolivegreen;
+  background-color: mistyrose;
+}
